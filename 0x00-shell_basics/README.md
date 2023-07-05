@@ -1,2 +1,1 @@
-#!/bin/bash
-about bash projects
+first file on bash project
