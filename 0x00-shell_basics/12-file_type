@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -r /tmp iamafile
+file /tmp/iamafile
