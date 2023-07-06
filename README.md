@@ -1,1 +1,1 @@
-About BASH projects
+first file on bash project
